@@ -1,2 +1,2 @@
-const Legend = () => <h1>Farmers Markets Dashboard</h1>;
+const Legend = () => <h1>Legend goes here</h1>;
 export default Legend;

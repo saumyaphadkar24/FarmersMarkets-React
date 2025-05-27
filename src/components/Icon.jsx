@@ -1,2 +1,2 @@
-const Icon = () => <h1>Farmers Markets Dashboard</h1>;
+const Icon = () => <h1>Icon goes here</h1>;
 export default Icon;

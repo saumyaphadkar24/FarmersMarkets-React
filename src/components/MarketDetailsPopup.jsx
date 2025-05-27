@@ -1,2 +1,2 @@
-const MarketDetailsPopup = () => <h1>Farmers Markets Dashboard</h1>;
+const MarketDetailsPopup = () => <h1>MarketDetailsPopup goes here</h1>;
 export default MarketDetailsPopup;

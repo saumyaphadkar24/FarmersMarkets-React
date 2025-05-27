@@ -1,2 +1,2 @@
-const RegionMap = () => <h1>Farmers Markets Dashboard</h1>;
+const RegionMap = () => <h1>RegionMap goes here</h1>;
 export default RegionMap;
